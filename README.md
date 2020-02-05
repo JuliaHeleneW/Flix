@@ -22,8 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 <img src="http://g.recordit.co/ZfjAfFLvBm.gif" width=250><br>
-<img src="http://g.recordit.co/DoVJxOdJI5.gif" width=250><br>
-!(image)[http://g.recordit.co/DoVJxOdJI5.gif]
+<a href="http://g.recordit.co/DoVJxOdJI5.gif" width=250>Link to bonus gif</a><br>
 
 ### Notes
 Challenges I encountered were that my app was stuck in the loading screen, because I forgot to specify the module. The error was fixed by said specifying the module.
