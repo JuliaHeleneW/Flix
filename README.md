@@ -26,3 +26,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Notes
 Challenges I encountered were that my app was stuck in the loading screen, because I forgot to specify the module. The error was fixed by said specifying the module.
 Another challenge was that I had accidentally created an outlet for the synopsis label twice and none for the title label. Recreating the title label fixed the problem.
+Auto layout also had its challenges, mostly due to not being completely sure what which constraint does, but the result was worth the challenge.
