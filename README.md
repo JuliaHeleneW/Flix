@@ -20,7 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/CIoRBK0wbE.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.---
+The first challenge was setting up the tab view in the right order. I wanted to change it programmatically, but ended up just removing the superhero tab and then added it again to display the items in the right order.
+The second challenge was getting the height correct. The trick that solved this was to set the estimate size dropdown to None, which lead to the flow layout being used.
 
 ## Flix Part 1
 
