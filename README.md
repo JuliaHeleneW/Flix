@@ -16,13 +16,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 
-<img src="https://recordit.co/ZfjAfFLvBm.gif" width=250><br>
+<img src="http://g.recordit.co/fm2QGCjfOg.gif" width=250><br>
 
 ### Notes
 Challenges I encountered were that my app was stuck in the loading screen, because I forgot to specify the module. The error was fixed by said specifying the module.
 Another challenge was that I had accidentally created an outlet for the synopsis label twice and none for the title label. Recreating the title label fixed the problem.
+Auto layout also had its challenges, mostly due to not being completely sure what which constraint does, but the result was worth the challenge.
